@@ -1,0 +1,88 @@
+body{box-sizing: border-box;}
+
+
+
+.mr-sm-2{margin: 0px 0 -37px 82px;}
+
+.navbar .container-fluid  {justify-content: space-around;}
+
+.offcanvas-body{background-color: black;}
+
+.fixed-top{top: -8px;}
+
+.part1{width: 100%;
+       height: 200vh;
+    background-color: blue;
+    display: grid;
+    align-content: space-evenly;
+}
+
+#circle {border: 2px solid gold;
+   
+border-radius: 50%;}
+
+#p1{margin: 45px 0 0 0;
+    text-align: center;
+    font-size: 31px;
+    font-family: 'Poppins', sans-serif;
+color: white;}
+
+#p2{margin: -62px 0 0 0;
+    text-align: center;
+    font-size: 73px;
+    font-family: 'Poppins', sans-serif;
+    color: gold;}
+
+#p3{width: 53%;
+    text-align: center;
+    margin: -43px 0 0 274px;
+    color: white;}
+
+#p4{text-align: center;
+    border-top: -19px;
+    margin: -65px 0 0 0;
+    color: white;}
+
+    #circle {    border: 5px solid gold;
+        border-radius: 50%;
+        width: 21%;
+        height: 30vh;
+        margin: -75px 0 -68px 442px;}
+
+        #photo{
+            border-radius: 50%;
+        width: 18%;
+        height: 25vh;
+        position: relative;
+    margin: -144px 0 0 448px;
+        }
+   
+        #circle {    border: 5px solid gold;
+            border-radius: 50%;
+            width: 21%;
+            height: 30vh;
+            margin: -75px 0 -68px 442px;}
+
+    #circle1{    border: 5px solid gold;
+              border-radius: 50%;
+             width: 18%;
+                 height: 25vh;
+                margin: -52px 0 -152px 70px;}
+
+    #circle2 {    border: 5px solid gold;
+                    border-radius: 50%;
+                    width: 21%;
+                    height: 30vh;
+                    margin: -75px 0 -68px 442px;}
+
+     #circle3 {    border: 5px solid gold;
+                        border-radius: 50%;
+                        width: 21%;
+                        height: 30vh;
+                        margin: -75px 0 -68px 442px;}
+
+    #circle4 {    border: 5px solid gold;
+                            border-radius: 50%;
+                            width: 21%;
+                            height: 30vh;
+                            margin: -75px 0 -68px 442px;}
